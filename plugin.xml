@@ -5,6 +5,8 @@
   xmlns:amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads" 
   xmlns:rim="http://www.blackberry.com/ns/widgets" id="outsystems-plugin-disable-backup" version="1.0">
   <name>mokasx-plugin-areweinchina</name>
+  <js-module name="areweinchina" src="www/areweinchina.js">
+  </js-module>
   <description>Add this reference to a build in order to flag it as a specific mobile build for China</description>
   <license>MIT</license>
   <engines>
